@@ -26,6 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a PhD candidate in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by [Nigel Bosch (https://pnigel.com/) and [Jana Diesner](https://www.gov.sot.tum.de/hcc/home/). Prior to starting my PhD, I completed my B.S. in Mathematics and Statistics at UIUC.   
+Hello! I'm a PhD candidate in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by 
+[Nigel Bosch](https://pnigel.com/) and [Jana Diesner](https://www.gov.sot.tum.de/hcc/home/). Prior to starting my PhD, I completed my B.S. in Mathematics and Statistics at UIUC.   
 
 

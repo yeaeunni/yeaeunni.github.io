@@ -58,3 +58,9 @@ html[data-theme="dark"] a:focus {
 .post a { color: #1a73e8; }
 */
 
+/* Reduce social icon size */
+.contact-icons a img {
+  width: 20px;   /* 기본은 보통 32px~40px 정도 */
+  height: 20px;
+}
+

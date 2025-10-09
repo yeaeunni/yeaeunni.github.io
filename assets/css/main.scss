@@ -62,3 +62,12 @@ html[data-theme="dark"] a:focus {
 /* shrink all social icons at once */
 .social .contact-icons { font-size: 3.0rem; } /* 0.8~0.9rem 추천 */
 
+.news a,
+.card-text a,
+.post-list a {
+  color: var(--global-link-color) !important;
+  text-decoration: underline;
+}
+.news em a, .news a em { color: var(--global-link-color) !important; }
+
+

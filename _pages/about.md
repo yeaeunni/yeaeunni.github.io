@@ -28,7 +28,7 @@ latest_posts:
 Hello! I'm a PhD candidate in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by 
 [Nigel Bosch](https://pnigel.com/) and [Jana Diesner](https://www.gov.sot.tum.de/hcc/home/). 
 
-I study how AI can be leveraged to help people become better self-regulated learners, such as by developing the ability to think critically about their own learning process and applying metacognitive strategies.
+I study how AI can be leveraged to help people become better self-regulated learners, such as by developing the ability to think critically about their own learning process and applying metacognitive strategies. 
 
 
 I approach this work through three complementary research goals: 

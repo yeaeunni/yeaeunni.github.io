@@ -60,33 +60,6 @@ html[data-theme="dark"] a:focus {
 
 
 /* shrink all social icons at once */
-.social .contact-icons { font-size: 3.0rem; } /* 0.8~0.9rem 추천 */
-
-
-
-/* 뉴스/카드/리스트에서 링크를 항상 파란색으로, 기본 밑줄은 제거 */
-.news a,
-.card-text a,
-.post-list a {
-  color: var(--global-link-color) !important;
-  text-decoration: none !important;
-  border-bottom: 0 !important; /* 테마가 밑줄 대신 보더 쓰는 경우 대비 */
-}
-
-/* 이탤릭이 감싸도 색 유지 */
-.news em a,
-.news a em,
-.card-text em a,
-.post-list em a {
-  color: var(--global-link-color) !important;
-}
-
-/* 호버 때만 밑줄 원하면 */
-.news a:hover,
-.card-text a:hover,
-.post-list a:hover {
-  text-decoration: underline !important;
-}
-
+.social .contact-icons { font-size: 2.0rem; } /* 0.8~0.9rem 추천 */
 
 

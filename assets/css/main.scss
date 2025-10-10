@@ -66,5 +66,13 @@ html[data-theme="dark"] a:focus {
   display: none !important; 
 }
 
+/* turn off image hover zoom site-wide */
+.post-content img:hover,
+img:hover {
+  transform: none !important;
+  transition: none !important;
+  box-shadow: none !important;
+  cursor: default !important;
+}
 
 

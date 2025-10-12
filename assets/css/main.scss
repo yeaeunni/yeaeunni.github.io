@@ -75,4 +75,10 @@ img:hover {
   cursor: default !important;
 }
 
+/* Only affect the publications page */
+body.publications .page-content {
+  max-width: 950px; /* 원하는 폭 */
+}
+
+
 

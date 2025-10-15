@@ -19,9 +19,10 @@ To design and develop XAI-driven interventions that help individuals learn, prac
 
 ### Leveraging XAI to Design and Develop Interventions that Support Self-regulated Learning
 
+{% include figure.liquid loading="eager" path="assets/img/study_procedure.png" %}
+
 I explore how XAI-driven interventions can foster self-regulated learning and metacognitive abilities through the lens of HCI and learning theories. These skills are crucial not only for students but also as lifelong competencies that empower individuals across diverse contexts. By developing such interventions, I aim to help learners understand the reasoning behind AI-generated feedback and recommendations, enabling them to make more informed learning decisions. Ultimately, this work contributes to our understanding of how XAI can be leveraged to support humans in becoming better self-regulated learners.
 
-{% include figure.liquid loading="eager" path="assets/img/study_procedure.png" class="img-fluid rounded z-depth-1" %}
 
 ---
 

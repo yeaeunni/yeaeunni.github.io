@@ -34,4 +34,4 @@ I study the dynamics of cognitive adaptation in AI-mediated environments — tha
 (2) Human-to-AI (Human → AI): instructive interactions where humans teach or correct the AI; and
 (3) Human–AI Collaboration (Human ↔ AI): joint reasoning with AI partners.
 
-Across these modes, I investigate how different types of interaction with AI systems elicit distinct forms of cognitive adaptation, including cue reweighting, strategy articulation, and metacognitive recalibration.
+ABCD. 

@@ -8,16 +8,19 @@ nav_order: 3
 display_categories:
 horizontal: false
 ---
-### AI-to-Human (AI → Human)
 
-ABCD
-
---- 
-### Human-to-AI (Human → AI)
+### AI → Human: How AI Shapes Human Cognition
 
 ABCD
 
 ---
-### Human–AI Collaboration (Human ↔ AI) 
+
+### Human → AI: Teaching, Guiding, and Reflecting Through AI
+
+ABCD
+
+---
+
+### Human ↔ AI: Co-Adaptive and Collaborative Intelligence
 
 ABCD

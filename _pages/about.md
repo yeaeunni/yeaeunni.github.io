@@ -40,5 +40,5 @@ Specifically, I examine the dynamics of this adaptation across three modes of hu
 By comparing these interaction modes, I aim to uncover how different forms of engagement with AI elicit distinct cognitive responses — and what this means for designing systems that support human judgment and learning. 
 
 
-If you’re interested in this line of work, feel free to reach out at [yegong@illinois.edu](mailto:yegong@illinois.edu). 
+If you’re interested in this line of work, feel free to reach out at [yegong@illinois.edu](mailto:yegong@illinois.edu).  
 

@@ -11,14 +11,6 @@ The full list of my papers can be found [here](https://scholar.google.com/citati
 
 {% include bib_search.liquid %}
 
-{% bibliography %}
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}

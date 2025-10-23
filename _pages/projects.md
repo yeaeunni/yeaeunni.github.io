@@ -2,22 +2,22 @@
 layout: page
 title: research
 permalink: /projects/
-description: Research directions and representative works
+description: description: Research directions and representative works on cognitive adaptation across three modes of human–AI interaction.
 nav: true
 nav_order: 3
 display_categories:
 horizontal: false
 ---
-### AI-to-Human (AI → Human): passive exposure to AI-generated outputs 
+### AI-to-Human (AI → Human)
 
 ABCD
 
 --- 
-### Human-to-AI (Human → AI): instructive interactions in which people teach, correct, or explain to AI systems
+### Human-to-AI (Human → AI)
 
 ABCD
 
 ---
-### Human–AI Collaboration (Human ↔ AI): joint reasoning and decision-making with AI partners 
+### Human–AI Collaboration (Human ↔ AI) 
 
 ABCD

@@ -12,7 +12,7 @@ profile:
 ---
 
 Hello! I'm a third-year PhD student in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by Professor 
-[Dong Wang](https://ischool.illinois.edu/people/dong-wang). I also collaborate closely with Professor [Jessie Chin](https://ischool.illinois.edu/people/jessie-chin) and [Jared Hotaling](https://psychology.illinois.edu/directory/profile/hotaling). 
+[Dong Wang](https://ischool.illinois.edu/people/dong-wang). I also collaborate closely with Professor [Jessie Chin](https://ischool.illinois.edu/people/jessie-chin) and Professor [Jared Hotaling](https://psychology.illinois.edu/directory/profile/hotaling). 
 
 Previously, I earned my master’s degree in Cognitive Science at Seoul National University, where I was advised by Professor [Gahgene Gweon](https://convergence.snu.ac.kr/en/snu__professor/gweon_gahgene/), and my bachelor’s degree in Psychology at Yonsei University. 
 

@@ -391,14 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-learning-behaviors-mediate-the-effect-of-ai-powered-support-for-metacognitive-calibration-on-learning-outcomes-received-a-best-paper-honorable-mention-award-at-chi-2025",
-          title: 'Our paper, Learning behaviors mediate the effect of AI-powered support for metacognitive calibration...',
-          description: "",
-          section: "News",},{id: "news-abcd",
+            },},{id: "news-abcd",
           title: 'ABCD!',
-          description: "",
-          section: "News",},{id: "news-i-gave-a-talk-on-human-centered-explainable-ai-to-support-metacognitive-strategies-in-computer-based-learning-environments-at-cstl-seminar-at-the-department-of-educational-psychology-at-uiuc",
-          title: 'I gave a talk on “Human-centered explainable AI to support metacognitive strategies in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

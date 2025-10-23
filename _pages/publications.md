@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: selected publications
 description: 
 nav: true
 nav_order: 2
@@ -11,7 +11,7 @@ The full list of my papers can be found [here](https://scholar.google.com/citati
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="selected publications">
 
 {% bibliography %}
 

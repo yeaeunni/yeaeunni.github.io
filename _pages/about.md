@@ -25,20 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a PhD candidate in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by 
-[Nigel Bosch](https://pnigel.com/) and [Jana Diesner](https://www.gov.sot.tum.de/hcc/home/). 
+Hello! I'm a third-year PhD student in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by Professor 
+[Dong Wang](https://ischool.illinois.edu/people/dong-wang). Previously, I earned my master’s degree in Cognitive Science at Seoul National University, where I was advised by Professor [Gahgene Gweon](https://convergence.snu.ac.kr/en/snu__professor/gweon_gahgene/), and my bachelor’s degree in Psychology at Yonsei University. 
 
-I study how AI can be leveraged to help people become better self-regulated learners, such as by developing the ability to think critically about their own learning process and applying metacognitive strategies. 
+I study the dynamics of cognitive adaptation in AI-mediated environments—that is, how humans shift their attention, metacognitive monitoring, and reasoning strategies in response to AI involvement. My research spans three distinct modes of human–AI interaction:
 
+(1) AI-to-Human (AI → Human): passive exposure to AI outputs;
+(2) Human-to-AI (Human → AI): instructive interactions where humans teach or correct the AI; and
+(3) Human–AI Collaboration (Human ↔ AI): joint reasoning with AI partners.
 
-I approach this work through three complementary research goals: 
-           
-1. Modeling self-regulated learning in computer-based learning environments using learning analytics
-              
-2. Designing and developing explainable AI systems to support self-regulated learning
-
-3. Assessing the fairness of these AI systems, particularly for underserved learners (e.g., individuals diagnosed with ADHD). 
-
-Before beginning my PhD, I earned my B.S. in Mathematics and Statistics at UIUC. Outside of research, I love walking my dog and exploring new places when I travel. 
-
-
+Across these modes, I investigate how different types of interaction with AI systems elicit distinct forms of cognitive adaptation, including cue reweighting, strategy articulation, and metacognitive recalibration.

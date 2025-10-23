@@ -13,13 +13,9 @@ horizontal: false
 
 ### ABCD
 
-{% include figure.liquid loading="eager" path="assets/img/study_procedure.png" %}
-
 ABCD
 ---
 
 ### ABCD
-
-{% include figure.liquid loading="eager" path="assets/img/study_procedure.png" %}
 
 ABCD

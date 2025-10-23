@@ -32,5 +32,8 @@ Hello! I'm a third-year PhD student in Information Sciences at the University of
 I investigate how AI systems reshape human cognitio, such as how people adapt their attention, reasoning strategies, and metacognitive processes in response to AI involvement. 
 
 
-Specifically, I examine the dynamics of this adaptation across three modes of human–AI interaction: (1) AI-to-Human (AI → Human): passive exposure to AI-generated outputs; (2) Human-to-AI (Human → AI): instructive interactions in which people teach, correct, or explain to AI systems; and (3) Human–AI Collaboration (Human ↔ AI): joint reasoning and decision-making with AI partners. By comparing these interaction modes, I aim to uncover how different forms of engagement with AI elicit distinct cognitive responses—and what this means for designing systems that support human judgment and learning.
+Specifically, I examine the dynamics of this adaptation across three modes of human–AI interaction: (1) AI-to-Human (AI → Human): passive exposure to AI-generated outputs; (2) Human-to-AI (Human → AI): instructive interactions in which people teach, correct, or explain to AI systems; and (3) Human–AI Collaboration (Human ↔ AI): joint reasoning and decision-making with AI partners. 
+
+
+By comparing these interaction modes, I aim to uncover how different forms of engagement with AI elicit distinct cognitive responses — and what this means for designing systems that support human judgment and learning. 
 

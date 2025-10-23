@@ -6,7 +6,7 @@ subtitle: ""
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/KakaoTalk_Image_2025-10-23-13-14-22.png
   image_circular: false # crops the image to make it circular
   more_info: ""
 

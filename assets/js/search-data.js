@@ -440,25 +440,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-',
+        title: '',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%61%65%6A%69%6E%32@%69%6C%6C%69%6E%6F%69%73.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/haejin-lee-331226285", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=eJsun0AAAAAJ", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',

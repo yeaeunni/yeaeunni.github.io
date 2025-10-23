@@ -9,18 +9,18 @@ display_categories:
 horizontal: false
 ---
 
-### AI → Human: How AI Shapes Human Cognition
+### AI → Human: How AI influences human attention, reasoning, and evaluation.
 
 ABCD
 
 ---
 
-### Human → AI: Teaching, Guiding, and Reflecting Through AI
+### Human → AI: How humans teach and guide AI through instructive interaction.
 
 ABCD
 
 ---
 
-### Human ↔ AI: Co-Adaptive and Collaborative Intelligence
+### Human ↔ AI: How humans and AI co-adapt through collaborative reasoning.
 
 ABCD

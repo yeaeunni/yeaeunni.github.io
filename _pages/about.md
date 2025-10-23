@@ -29,14 +29,6 @@ Hello! I'm a third-year PhD student in Information Sciences at the University of
 [Dong Wang](https://ischool.illinois.edu/people/dong-wang). Previously, I earned my master’s degree in Cognitive Science at Seoul National University, where I was advised by Professor [Gahgene Gweon](https://convergence.snu.ac.kr/en/snu__professor/gweon_gahgene/), and my bachelor’s degree in Psychology at Yonsei University. 
 
 
-I study the dynamics of cognitive adaptation in AI-mediated environments — that is, how humans shift their attention and reasoning strategies in response to AI involvement. 
-
-My research spans three distinct modes of human–AI interaction:
-
-(1) AI-to-Human (AI → Human): passive exposure to AI outputs;
-
-(2) Human-to-AI (Human → AI): instructive interactions where humans teach or correct the AI; and
-
-(3) Human–AI Collaboration (Human ↔ AI): joint reasoning with AI partners.
+I study the dynamics of cognitive adaptation in AI-mediated environments — that is, how humans shift their attention and reasoning strategies in response to AI involvement. My research spans three distinct modes of human–AI interaction: (1) AI-to-Human (AI → Human): passive exposure to AI outputs; (2) Human-to-AI (Human → AI): instructive interactions where humans teach or correct the AI; and (3) Human–AI Collaboration (Human ↔ AI): joint reasoning with AI partners.
 
 ABCD. 
